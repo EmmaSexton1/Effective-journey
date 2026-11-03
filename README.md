@@ -7,8 +7,7 @@ This repository is being used to explore open-source software security, secure d
 
 ## Security Badges
 
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/EmmaSexton1/Effective-journey/badge)](https://scorecard.dev/viewer/?uri=github.com/EmmaSexton1/Effective-journey)(https://securityscorecards.dev/viewer/?uri=github.com/EmmaSexton1/Effective-journey)
-
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/EmmaSexton1/Effective-journey/badge)](https://scorecard.dev/viewer/?uri=github.com/EmmaSexton1/Effective-journey)
 <!-- Add your OpenSSF Best Practices badge here after registering the project. -->
 
 ## Project Goals
